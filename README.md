@@ -2,6 +2,7 @@
 
 ### Agregar Utilidad
  * Crear carpeta con el nombre de la utilidad y añadir una imagen de referencia
+ * Pendiente de la categoria
  * Añadir en el README.MD
 
 ### Listado Actual
@@ -22,8 +23,8 @@
 | Nutflix | ![Nutflix](/Administradores/Nutflix/98495fd0-6307-44f3-bb8d-3ae4dfbb715e.jpeg "Nutflix") | ADMIN  |
 | Paper | ![Paper](/Administradores/Paper/17849a03-b3d7-4086-8e0b-080b61b69fca.jpeg "Paper") | ADMIN  |
 | Press | ![Press](/Administradores/Press/68041671-4162-4ed4-ac3c-37e074cf1efc.jpeg "Press") | ADMIN  |
-| Quirk Bootstrap | ![Quirk Bootstrap](/Administradores/QuirkBootstrap/0a73ba3d-afae-406d-8908-9686117b235e.jpeg "Quirk Bootstrap") | ADMIN  |
-| Reactor | ![Reactor](/Administradores/Reactor/0a73ba3d-afae-406d-8908-9686117b235e.jpeg "Reactor") | ADMIN  |
+| Quirk Bootstrap | ![Quirk Bootstrap](/Administradores/QuirkBootstrap/efcf6bd9-17e7-4740-a684-8c56297f6aaa.jpeg "Quirk Bootstrap") | ADMIN  |
+| Reactor | ![Reactor](/Administradores/Reactor/efcf6bd9-17e7-4740-a684-8c56297f6aaa.jpeg "Reactor") | ADMIN  |
 | Slant | ![Slant](/Administradores/Slant/3d1029a9-3cc4-406c-af3f-6c82247d530f.jpeg "Slant") | ADMIN  |
 | Splasher | ![Splasher](/Administradores/Splasher/f66664e3-c67b-4a05-90a4-2bfe849215ca.jpeg "Splasher") | ADMIN  |
 | Veltrix | ![Veltrix](/Administradores/Veltrix/b28f5608-ca6e-47c9-9c61-282f00a34eb1.jpeg "Veltrix") | ADMIN  |
