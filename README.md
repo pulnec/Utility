@@ -30,3 +30,5 @@
 | Veltrix | ![Veltrix](/Administradores/Veltrix/b28f5608-ca6e-47c9-9c61-282f00a34eb1.jpeg "Veltrix") | ADMIN  |
 | Zawia | ![Zawia](/Administradores/Zawia/3ba877a5-2a7e-41f3-83e8-9973b53bf7b4.jpeg "Zawia") | ADMIN  |
 | Zinzer | ![Zinzer](/Administradores/Zinzer/d374b7c4-ef76-48c6-8e98-a9ac1a203b19.jpeg "Zinzer") | ADMIN  |
+| Drixo | ![Drixo](/Administradores/Drixo/3459fc9d-ae93-493b-9c52-d6ee73a059ca.jpeg "Drixo") | ADMIN  |
+| Xadmino | ![Xadmino](/Administradores/Xadmino/5b39c652-6e26-4b44-a5f3-d5ae17078dd7.jpeg "Xadmino") | ADMIN  |
