@@ -28,4 +28,4 @@
 | Splasher | ![Splasher](/Administradores/Splasher/f66664e3-c67b-4a05-90a4-2bfe849215ca.jpeg "Splasher") | ADMIN  |
 | Veltrix | ![Veltrix](/Administradores/Veltrix/b28f5608-ca6e-47c9-9c61-282f00a34eb1.jpeg "Veltrix") | ADMIN  |
 | Zawia | ![Zawia](/Administradores/Zawia/3ba877a5-2a7e-41f3-83e8-9973b53bf7b4.jpeg "Zawia") | ADMIN  |
-| Zinzer | ![Zinzer](/Administradores/Zinzer/3ba877a5-2a7e-41f3-83e8-9973b53bf7b4.jpeg "Zinzer") | ADMIN  |
+| Zinzer | ![Zinzer](/Administradores/Zinzer/d374b7c4-ef76-48c6-8e98-a9ac1a203b19.jpeg "Zinzer") | ADMIN  |
